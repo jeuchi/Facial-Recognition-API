@@ -1,8 +1,8 @@
 
-## Author ✏️
+## Authors ✏️
 
--    **Jeremy Euchi**  -  [https://github.com/jeuchi](https://github.com/jeuchi)
--  **Andrei Neagoie** - [https://github.com/aneagoie](https://github.com/aneagoie)
+-    [**Jeremy Euchi**](https://github.com/jeuchi)
+-  [**Andrei Neagoie**](https://github.com/aneagoie)
 
 ## Features 🎤
 
